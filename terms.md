@@ -1,5 +1,3 @@
----
-
 **Terms of Service**
 
 **1. Acceptance of Terms**
@@ -41,7 +39,3 @@ These Terms of Service shall be governed by and construed in accordance with the
 **10. Contact Information**
 
 If you have any questions about these Terms of Service, please contact us at [y2kprabu@gmail.com].
-
----
-
-Feel free to customize this template to better fit your specific needs. If you need any further assistance, just let me know!
