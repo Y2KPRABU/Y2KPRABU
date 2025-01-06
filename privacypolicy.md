@@ -7,36 +7,27 @@ This Privacy Policy explains how we collect, use, and protect your information w
 **2. Information We Collect**
 
 We do not collect the following types of information:
-- **Personal Information**: Your email address and any other information you provide while using the Addon.
+- **Personal Information**: Your Event Title or dates  you provide while using the Addon.
 - Any of your email information
 - Any of you calendar event realted information
   
 **3. How We Use Your Information**
-
-We use the information we collect to:
-- Provide and improve the Addon.
-- Respond to your inquiries and support requests.
-- Analyze usage patterns to enhance user experience.
-
+we do not collect any data
+- The Email Subject is used to create the Calendar Event Title and Email body is used in the Calendar Event description, and the data always stays in your google account, we do not use or store the data outside.
+  
 **4. Information Sharing and Disclosure**
 
-We do not share or disclose your personal information to third parties, except:
-- When required by law.
-- With your explicit consent.
+We do not have any of your personal information to third parties, except:
 
-**5. Data Security**
-
-We implement appropriate security measures to protect your information from unauthorized access, alteration, disclosure, or destruction.
-
-**6. Your Rights**
+**5. Your Rights**
 
 You have the right to:
 - Opt-out of certain data collection practices.
 
-**7. Changes to This Privacy Policy**
+**6. Changes to This Privacy Policy**
 
 We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new policy on our website.
 
-**8. Contact Us**
+**7. Contact Us**
 
 If you have any questions or concerns about this Privacy Policy, please contact us at y2kprabu@gmail.com.
