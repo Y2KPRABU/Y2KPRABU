@@ -17,7 +17,7 @@ we do not collect any data
   
 **4. Information Sharing and Disclosure**
 
-We do not have any of your personal information to third parties, except:
+We do not have any of your personal information, and hence we do not share any information with third parties.
 
 **5. Your Rights**
 
