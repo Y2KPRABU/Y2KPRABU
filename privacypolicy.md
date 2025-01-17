@@ -1,4 +1,4 @@
-**Privacy Policy for Event Creator for Gmail**
+**Privacy Policy for Event Creator from Email**
 
 **1. Introduction**
 
