@@ -2,15 +2,15 @@
 
 **1. Acceptance of Terms**
 
-By installing and using the Gmail Addon, you agree to be bound by these Terms of Service. If you do not agree to these terms, please do not use the Addon.
+By installing and using the Gmail™ Addon, you agree to be bound by these Terms of Service. If you do not agree to these terms, please do not use the Addon.
 
 **2. Description of Service**
 
-The Gmail Addon provides additional functionalities to enhance your Gmail experience. These functionalities may include, but are not limited to, email management tools, productivity enhancements, and integration with other services.
+The Gmail™ Addon provides additional functionalities to enhance your Gmail™ experience. These functionalities may include, but are not limited to, email management tools, productivity enhancements, and integration with other services.
 
 **3. User Responsibilities**
 
-You are responsible for maintaining the confidentiality of your Gmail account and any activities that occur under your account. You agree to use the Addon in compliance with all applicable laws and regulations.
+You are responsible for maintaining the confidentiality of your Gmail™ account and any activities that occur under your account. You agree to use the Addon in compliance with all applicable laws and regulations.
 
 **4. Privacy**
 
