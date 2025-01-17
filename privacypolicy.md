@@ -2,14 +2,14 @@
 
 **1. Introduction**
 
-This Privacy Policy explains how we collect, use, and protect your information when you use our Event Creator for Gmail Addon. By using the Addon, you agree to the terms outlined in this policy.
+This Privacy Policy explains how we collect, use, and protect your information when you use our Event Creator for Gmail™ Addon. By using the Addon, you agree to the terms outlined in this policy.
 
 **2. Information We Collect / Information we read**
 
 We only read the below information in memory while the add-on is running:
 - Your Event Title or dates you select, while using the Addon.
 - Any of your email information
-- Any of you calendar event related information
+- Any of your calendar event related information
 
 **3. Data Security**
 
@@ -21,7 +21,7 @@ We only read the below information in memory while the add-on is running:
   
 **5. How We Use Your Information**
 - We do not collect any data
-- The Email Subject is used to create the Calendar Event Title and Email body is used in the Calendar Event description, and the data always stays in your google account, we do not use or store the data outside.
+- The Email Subject is used to create the Calendar™ Event Title and Email body is used in the Calendar™ Event description, and the data always stays in your Google™ account, we do not use or store the data outside.
   
 **6. Information Sharing and Disclosure**
 
