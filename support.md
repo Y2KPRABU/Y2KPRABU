@@ -1,11 +1,11 @@
-**Support for Event Creator Gmail Add-On**
+**Support for Event Creator from Email for Gmail™ Add-On**
 
 **Overview:**
-This document provides the support URL for a Event Creator Gmail add-on. The add-on enhances the functionality of Gmail by integrating additional features and tools to improve user experience.
+This document provides the support URL for a Event Creator from Email for Gmail™ add-on. The add-on enhances the functionality of Gmail by integrating additional features and tools to improve user experience.
 
 **Features:**
-- Seamless integration with Gmail.
-- Easy access to creating a Calendar Event from Gmail panel.
+- Seamless integration with Gmail™.
+- Easy access to creating a Calendar™ Event from Gmail™ panel.
 - User-friendly interface.
 
 **Contact Information:**
